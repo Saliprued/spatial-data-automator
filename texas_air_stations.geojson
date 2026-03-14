@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3698,
+                    29.7604
+                ]
+            },
+            "properties": {
+                "Station_ID": "TX-AQ-001",
+                "City": "Houston",
+                "Region": "Gulf Coast",
+                "Pollutant_Focus": "Ozone",
+                "Status": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2091,
+                    29.6911
+                ]
+            },
+            "properties": {
+                "Station_ID": "TX-AQ-002",
+                "City": "Pasadena",
+                "Region": "Gulf Coast",
+                "Pollutant_Focus": "PM2.5",
+                "Status": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7977,
+                    29.3013
+                ]
+            },
+            "properties": {
+                "Station_ID": "TX-AQ-003",
+                "City": "Galveston",
+                "Region": "Gulf Coast",
+                "Pollutant_Focus": "SO2",
+                "Status": "Maintenance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1266,
+                    30.0802
+                ]
+            },
+            "properties": {
+                "Station_ID": "TX-AQ-004",
+                "City": "Beaumont",
+                "Region": "East Texas",
+                "Pollutant_Focus": "Ozone",
+                "Status": "Active"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6226,
+                    29.5984
+                ]
+            },
+            "properties": {
+                "Station_ID": "TX-AQ-005",
+                "City": "Sugar Land",
+                "Region": "Gulf Coast",
+                "Pollutant_Focus": "PM2.5",
+                "Status": "Active"
+            }
+        }
+    ]
+}
