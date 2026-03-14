@@ -15,7 +15,7 @@ This project is a lightweight, automated data  pipeline built in Python. It is d
 4. **Export:** Generates a clean `.geojson` file ready for deployment.
 
 ## Use Case Example
-The current dataset (`texas_air_stations.csv`) uses sample environmental air quality monitoring data from the Gulf Coast region. The script successfully transforms this tabular data into a spatial format that can be easily visualized in digital twins or cloud-based maps.
+The current dataset (`texas_energy_infrastructure.csv`) uses sample environmental air quality monitoring data from the Gulf Coast region. The script successfully transforms this tabular data into a spatial format that can be easily visualized in digital twins or cloud-based maps.
 
 ## Next Steps (Cloud Integration)
 * [ ] Containerize the application using Docker.
