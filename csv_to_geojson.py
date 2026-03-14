@@ -2,7 +2,7 @@ import csv
 import json
 import os
 
-def convert_csv_to_geojson(input_csv, output_geojson):
+def csv_to_geojson(input_csv, output_geojson):
     """
     Reads a CSV file with spatial data and converts it into a GeoJSON format.
     """
@@ -31,10 +31,10 @@ def convert_csv_to_geojson(input_csv, output_geojson):
                         "coordinates": [lon, lat] # GeoJSON standard is [Longitude, Latitude]
                     },
                     "properties": {
-                        "Station_ID": row['Station_ID'],
-                        "City": row['City'],
-                        "Region": row['Region'],
-                        "Pollutant_Focus": row['Pollutant_Focus'],
+                        "Facility_ID": row['Facility_ID'],
+                        "Facility_Type": row['Facility_Type'],
+                        "Location_Name": row['Location_Name'],
+                        "Operator": row['Operator'],
                         "Status": row['Status']
                     }
                 }
@@ -54,11 +54,11 @@ def convert_csv_to_geojson(input_csv, output_geojson):
 # --- Execution block ---
 if __name__ == "__main__":
     # Define file names
-    INPUT_FILE = 'texas_air_stations.csv'
-    OUTPUT_FILE = 'texas_air_stations.geojson'
+    INPUT_FILE = 'texas_energy_infrastructure.csv'
+    OUTPUT_FILE = 'texas_energy_infrastructure.geojson'
     
     # Check if input file exists before running
     if os.path.exists(INPUT_FILE):
-        convert_csv_to_geojson(INPUT_FILE, OUTPUT_FILE)
+        csv_to_geojson(INPUT_FILE, OUTPUT_FILE)
     else:
         print(f"File {INPUT_FILE} not found. Please ensure it is in the same directory.")
