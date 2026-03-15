@@ -1,0 +1,6 @@
+Station_ID,City,Region,Pollutant_Focus,Latitude,Longitude,Status
+TX-AQ-001,Houston,Gulf Coast,Ozone,29.7604,-95.3698,Active
+TX-AQ-002,Pasadena,Gulf Coast,PM2.5,29.6911,-95.2091,Active
+TX-AQ-003,Galveston,Gulf Coast,SO2,29.3013,-94.7977,Maintenance
+TX-AQ-004,Beaumont,East Texas,Ozone,30.0802,-94.1266,Active
+TX-AQ-005,Sugar Land,Gulf Coast,PM2.5,29.5984,-95.6226,Active

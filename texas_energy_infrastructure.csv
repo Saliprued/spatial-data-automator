@@ -1,0 +1,101 @@
+Facility_ID,Facility_Type,Location_Name,Operator,Latitude,Longitude,Status
+EN-TX-001,Refinery,Baytown Complex A,Gulf Coast Energy,29.7355,-95.0111,Active
+EN-TX-002,Refinery,Baytown Complex B,Gulf Coast Energy,29.7380,-95.0150,Active
+EN-TX-003,Refinery,Pasadena Refining,Gulf Coast Energy,29.7022,-95.1936,Maintenance
+EN-TX-004,Storage Terminal,Deer Park Storage 1,Coastal Storage,29.7150,-95.1200,Active
+EN-TX-005,Storage Terminal,Deer Park Storage 2,Coastal Storage,29.7165,-95.1225,Active
+EN-TX-006,Refinery,Texas City Hub 1,Gulf Coast Energy,29.3780,-94.9280,Active
+EN-TX-007,Refinery,Texas City Hub 2,Gulf Coast Energy,29.3801,-94.9305,Active
+EN-TX-008,Storage Terminal,Galveston Port Tanks,Coastal Storage,29.3100,-94.7900,Active
+EN-TX-009,Compressor Station,Houston Ship Channel,Tejas Pipeline Co,29.7285,-95.2611,Active
+EN-TX-010,Pump Station,La Porte Pipeline,Permian Logistics,29.6655,-95.0199,Active
+EN-TX-011,Storage Terminal,Beaumont Reserve A,Coastal Storage,30.0802,-94.1266,Active
+EN-TX-012,Storage Terminal,Beaumont Reserve B,Coastal Storage,30.0820,-94.1290,Active
+EN-TX-013,Pump Station,Port Arthur Hub,Permian Logistics,29.8900,-93.9400,Maintenance
+EN-TX-014,Refinery,Port Arthur Refining,Gulf Coast Energy,29.8850,-93.9450,Active
+EN-TX-015,Compressor Station,Orange Station,Tejas Pipeline Co,30.1000,-93.7500,Active
+EN-TX-016,Well Pad,Permian Pad 01,South Texas Drillers,31.9973,-102.0779,Active
+EN-TX-017,Well Pad,Permian Pad 02,South Texas Drillers,31.9985,-102.0800,Active
+EN-TX-018,Well Pad,Permian Pad 03,South Texas Drillers,32.0010,-102.0825,Active
+EN-TX-019,Well Pad,Permian Pad 04,South Texas Drillers,32.0050,-102.0850,Active
+EN-TX-020,Well Pad,Permian Pad 05,South Texas Drillers,32.0100,-102.0900,Maintenance
+EN-TX-021,Pump Station,Midland Hub A,Permian Logistics,32.0005,-102.0750,Active
+EN-TX-022,Pump Station,Midland Hub B,Permian Logistics,32.0020,-102.0720,Active
+EN-TX-023,Compressor Station,Odessa Gas Plant,Tejas Pipeline Co,31.8500,-102.3600,Active
+EN-TX-024,Well Pad,Permian Pad 06,South Texas Drillers,31.8550,-102.3650,Active
+EN-TX-025,Well Pad,Permian Pad 07,South Texas Drillers,31.8600,-102.3700,Active
+EN-TX-026,Well Pad,Permian Pad 08,South Texas Drillers,31.8650,-102.3750,Active
+EN-TX-027,Well Pad,Permian Pad 09,South Texas Drillers,31.8700,-102.3800,Active
+EN-TX-028,Well Pad,Permian Pad 10,South Texas Drillers,31.8750,-102.3850,Inactive
+EN-TX-029,Storage Terminal,Pecos Tanks,Coastal Storage,31.4200,-103.4900,Active
+EN-TX-030,Pump Station,Pecos Pipeline,Permian Logistics,31.4250,-103.4950,Active
+EN-TX-031,Well Pad,Eagle Ford Pad 01,South Texas Drillers,28.4333,-98.0500,Active
+EN-TX-032,Well Pad,Eagle Ford Pad 02,South Texas Drillers,28.4350,-98.0550,Active
+EN-TX-033,Well Pad,Eagle Ford Pad 03,South Texas Drillers,28.4400,-98.0600,Active
+EN-TX-034,Well Pad,Eagle Ford Pad 04,South Texas Drillers,28.4450,-98.0650,Active
+EN-TX-035,Well Pad,Eagle Ford Pad 05,South Texas Drillers,28.4500,-98.0700,Maintenance
+EN-TX-036,Pump Station,Kenedy Hub,Permian Logistics,28.8100,-97.8400,Active
+EN-TX-037,Compressor Station,Kenedy Gas Plant,Tejas Pipeline Co,28.8150,-97.8450,Active
+EN-TX-038,Well Pad,Eagle Ford Pad 06,South Texas Drillers,28.8200,-97.8500,Active
+EN-TX-039,Well Pad,Eagle Ford Pad 07,South Texas Drillers,28.8250,-97.8550,Active
+EN-TX-040,Well Pad,Eagle Ford Pad 08,South Texas Drillers,28.8300,-97.8600,Active
+EN-TX-041,Well Pad,Eagle Ford Pad 09,South Texas Drillers,28.8350,-97.8650,Active
+EN-TX-042,Well Pad,Eagle Ford Pad 10,South Texas Drillers,28.8400,-97.8700,Inactive
+EN-TX-043,Storage Terminal,Corpus Christi Tanks A,Coastal Storage,27.8000,-97.3900,Active
+EN-TX-044,Storage Terminal,Corpus Christi Tanks B,Coastal Storage,27.8050,-97.3950,Active
+EN-TX-045,Refinery,Corpus Christi Refining,Gulf Coast Energy,27.8100,-97.4000,Active
+EN-TX-046,Pump Station,Ingleside Hub,Permian Logistics,27.8700,-97.2100,Active
+EN-TX-047,Compressor Station,Katy Gas Plant A,Tejas Pipeline Co,29.7858,-95.8244,Maintenance
+EN-TX-048,Compressor Station,Katy Gas Plant B,Tejas Pipeline Co,29.7880,-95.8280,Active
+EN-TX-049,Pump Station,Cypress Pipeline,Permian Logistics,29.9700,-95.6900,Active
+EN-TX-050,Storage Terminal,Tomball Tanks,Coastal Storage,30.0900,-95.6100,Active
+EN-TX-051,Well Pad,Barnett Pad 01,South Texas Drillers,33.2100,-97.1300,Active
+EN-TX-052,Well Pad,Barnett Pad 02,South Texas Drillers,33.2150,-97.1350,Active
+EN-TX-053,Well Pad,Barnett Pad 03,South Texas Drillers,33.2200,-97.1400,Active
+EN-TX-054,Well Pad,Barnett Pad 04,South Texas Drillers,33.2250,-97.1450,Active
+EN-TX-055,Well Pad,Barnett Pad 05,South Texas Drillers,33.2300,-97.1500,Maintenance
+EN-TX-056,Compressor Station,Denton Gas Plant,Tejas Pipeline Co,33.2100,-97.1300,Active
+EN-TX-057,Pump Station,Fort Worth Hub,Permian Logistics,32.7500,-97.3300,Active
+EN-TX-058,Storage Terminal,Dallas South Tanks,Coastal Storage,32.6500,-96.7500,Active
+EN-TX-059,Pump Station,Waco Pipeline,Permian Logistics,31.5400,-97.1400,Active
+EN-TX-060,Compressor Station,Temple Station,Tejas Pipeline Co,31.0900,-97.3400,Active
+EN-TX-061,Well Pad,Haynesville Pad 01,South Texas Drillers,32.0500,-94.3700,Active
+EN-TX-062,Well Pad,Haynesville Pad 02,South Texas Drillers,32.0550,-94.3750,Active
+EN-TX-063,Well Pad,Haynesville Pad 03,South Texas Drillers,32.0600,-94.3800,Active
+EN-TX-064,Well Pad,Haynesville Pad 04,South Texas Drillers,32.0650,-94.3850,Active
+EN-TX-065,Well Pad,Haynesville Pad 05,South Texas Drillers,32.0700,-94.3900,Maintenance
+EN-TX-066,Compressor Station,Carthage Gas Plant,Tejas Pipeline Co,32.1500,-94.3300,Active
+EN-TX-067,Pump Station,Longview Hub,Permian Logistics,32.5000,-94.7300,Active
+EN-TX-068,Storage Terminal,Tyler Tanks,Coastal Storage,32.3500,-95.3000,Active
+EN-TX-069,Pump Station,Lufkin Pipeline,Permian Logistics,31.3300,-94.7300,Active
+EN-TX-070,Compressor Station,Nacogdoches Station,Tejas Pipeline Co,31.6000,-94.6500,Active
+EN-TX-071,Well Pad,Permian Pad 11,South Texas Drillers,31.5000,-101.5000,Active
+EN-TX-072,Well Pad,Permian Pad 12,South Texas Drillers,31.5050,-101.5050,Active
+EN-TX-073,Well Pad,Permian Pad 13,South Texas Drillers,31.5100,-101.5100,Active
+EN-TX-074,Well Pad,Permian Pad 14,South Texas Drillers,31.5150,-101.5150,Active
+EN-TX-075,Well Pad,Permian Pad 15,South Texas Drillers,31.5200,-101.5200,Maintenance
+EN-TX-076,Pump Station,Big Spring Hub,Permian Logistics,32.2500,-101.4700,Active
+EN-TX-077,Compressor Station,Snyder Gas Plant,Tejas Pipeline Co,32.7100,-100.9100,Active
+EN-TX-078,Well Pad,Permian Pad 16,South Texas Drillers,32.7150,-100.9150,Active
+EN-TX-079,Well Pad,Permian Pad 17,South Texas Drillers,32.7200,-100.9200,Active
+EN-TX-080,Well Pad,Permian Pad 18,South Texas Drillers,32.7250,-100.9250,Inactive
+EN-TX-081,Storage Terminal,Abilene Tanks,Coastal Storage,32.4400,-99.7300,Active
+EN-TX-082,Pump Station,Sweetwater Pipeline,Permian Logistics,32.4700,-100.4000,Active
+EN-TX-083,Well Pad,Eagle Ford Pad 11,South Texas Drillers,28.6000,-99.5000,Active
+EN-TX-084,Well Pad,Eagle Ford Pad 12,South Texas Drillers,28.6050,-99.5050,Active
+EN-TX-085,Well Pad,Eagle Ford Pad 13,South Texas Drillers,28.6100,-99.5100,Active
+EN-TX-086,Well Pad,Eagle Ford Pad 14,South Texas Drillers,28.6150,-99.5150,Active
+EN-TX-087,Well Pad,Eagle Ford Pad 15,South Texas Drillers,28.6200,-99.5200,Maintenance
+EN-TX-088,Pump Station,Cotulla Hub,Permian Logistics,28.4300,-99.2300,Active
+EN-TX-089,Compressor Station,Carrizo Springs Plant,Tejas Pipeline Co,28.5200,-99.8600,Active
+EN-TX-090,Well Pad,Eagle Ford Pad 16,South Texas Drillers,28.5250,-99.8650,Active
+EN-TX-091,Well Pad,Eagle Ford Pad 17,South Texas Drillers,28.5300,-99.8700,Active
+EN-TX-092,Well Pad,Eagle Ford Pad 18,South Texas Drillers,28.5350,-99.8750,Inactive
+EN-TX-093,Storage Terminal,Laredo Tanks,Coastal Storage,27.5000,-99.5000,Active
+EN-TX-094,Pump Station,Zapata Pipeline,Permian Logistics,26.9000,-99.2700,Active
+EN-TX-095,Refinery,Freeport Hub A,Gulf Coast Energy,28.9500,-95.3600,Active
+EN-TX-096,Refinery,Freeport Hub B,Gulf Coast Energy,28.9550,-95.3650,Active
+EN-TX-097,Storage Terminal,Freeport Tanks,Coastal Storage,28.9600,-95.3700,Active
+EN-TX-098,Compressor Station,Angleton Station,Tejas Pipeline Co,29.1600,-95.4300,Maintenance
+EN-TX-099,Pump Station,Lake Jackson Pipeline,Permian Logistics,29.0400,-95.4400,Active
+EN-TX-100,Refinery,Sweeny Complex,Gulf Coast Energy,29.0400,-95.6900,Active
