@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch and load your automated GeoJSON file
-fetch('texas_energy_infrastructure.geojson')
+fetch('https://sperez-raw-data-tx-2026.s3.us-east-2.amazonaws.com/texas_energy_infrastructure.geojson')
     .then(response => response.json())
     .then(data => {
         //Add the GeoJSON data to the map with popups
