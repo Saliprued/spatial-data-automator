@@ -1,24 +1,43 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texas Energy Infrastructure Map</title>
-
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link rel="stylesheet" href="style.css" />
-    
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive demonstration of a Python CSV-to-GeoJSON workflow for synthetic Texas energy infrastructure data.">
+  <title>Texas Energy Infrastructure | Spatial Data Automator</title>
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="header">
-        <h2>Texas Energy Infrastructure</h2>
-        <p>Automated GeoJSON Pipeline</p>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">Python · GeoJSON · Leaflet</p>
+      <h1>Texas Energy Infrastructure</h1>
+      <p class="summary">A reproducible CSV-to-GeoJSON workflow displayed in an interactive web map.</p>
     </div>
+    <a class="repo-link" href="https://github.com/Saliprued/spatial-data-automator" target="_blank" rel="noreferrer">View code ↗</a>
+  </header>
 
-    <div id="map"></div>
+  <main>
+    <section class="map-shell" aria-label="Interactive Texas energy infrastructure map">
+      <div id="map"></div>
+      <aside class="map-panel">
+        <span class="panel-label">Demo dataset</span>
+        <strong id="facility-count">Loading…</strong>
+        <span id="map-status">Preparing GeoJSON features</span>
+      </aside>
+      <div class="legend" id="legend" aria-label="Facility type legend"></div>
+    </section>
+  </main>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="map.js"></script>
+  <footer>
+    <span>Synthetic portfolio data — not operational infrastructure information.</span>
+    <span>Created by Sandra L. Perez</span>
+  </footer>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="map.js"></script>
 </body>
 </html>
+

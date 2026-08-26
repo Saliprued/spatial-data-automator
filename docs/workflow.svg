@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Spatial Data Automator workflow</title>
+  <desc id="desc">Synthetic CSV records are validated by Python, converted into GeoJSON, visualized with Leaflet, and published using GitHub Pages.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#557b76"/>
+    </marker>
+  </defs>
+  <style>
+    .title { font: 700 29px Arial, sans-serif; fill: #173238; }
+    .subtitle { font: 15px Arial, sans-serif; fill: #61757a; }
+    .step { font: 700 18px Arial, sans-serif; fill: #173238; text-anchor: middle; }
+    .detail { font: 14px Arial, sans-serif; fill: #61757a; text-anchor: middle; }
+    .number { font: 700 13px Arial, sans-serif; fill: #ffffff; text-anchor: middle; }
+    .arrow { stroke: #557b76; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+  </style>
+  <rect width="1200" height="420" rx="24" fill="#f4f7f5"/>
+  <text x="48" y="58" class="title">Spatial Data Automator</text>
+  <text x="48" y="87" class="subtitle">A transparent local-to-web geospatial data workflow</text>
+
+  <rect x="48" y="150" width="185" height="145" rx="16" fill="#ffffff" stroke="#cfddd8"/>
+  <circle cx="82" cy="180" r="16" fill="#276f69"/><text x="82" y="185" class="number">1</text>
+  <text x="140" y="220" class="step">CSV records</text>
+  <text x="140" y="247" class="detail">100 synthetic facilities</text>
+
+  <path d="M233 222 H288" class="arrow"/>
+  <rect x="298" y="150" width="185" height="145" rx="16" fill="#e9f3f0" stroke="#8dbab2"/>
+  <circle cx="332" cy="180" r="16" fill="#276f69"/><text x="332" y="185" class="number">2</text>
+  <text x="390" y="220" class="step">Python</text>
+  <text x="390" y="247" class="detail">Schema + coordinate checks</text>
+
+  <path d="M483 222 H538" class="arrow"/>
+  <rect x="548" y="150" width="185" height="145" rx="16" fill="#ffffff" stroke="#cfddd8"/>
+  <circle cx="582" cy="180" r="16" fill="#276f69"/><text x="582" y="185" class="number">3</text>
+  <text x="640" y="220" class="step">GeoJSON</text>
+  <text x="640" y="247" class="detail">Web-ready point features</text>
+
+  <path d="M733 222 H788" class="arrow"/>
+  <rect x="798" y="150" width="165" height="145" rx="16" fill="#e9f3f0" stroke="#8dbab2"/>
+  <circle cx="832" cy="180" r="16" fill="#276f69"/><text x="832" y="185" class="number">4</text>
+  <text x="880" y="220" class="step">Leaflet</text>
+  <text x="880" y="247" class="detail">Interactive web map</text>
+
+  <path d="M963 222 H1018" class="arrow"/>
+  <rect x="1028" y="150" width="124" height="145" rx="16" fill="#ffffff" stroke="#cfddd8"/>
+  <circle cx="1062" cy="180" r="16" fill="#276f69"/><text x="1062" y="185" class="number">5</text>
+  <text x="1090" y="220" class="step">Pages</text>
+  <text x="1090" y="247" class="detail">Public demo</text>
+
+  <text x="48" y="365" class="subtitle">No active AWS account or temporary cloud bucket is required.</text>
+</svg>
+

@@ -1,1705 +1,1705 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.0111,
-                    29.7355
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-001",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Baytown Complex A",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.015,
-                    29.738
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-002",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Baytown Complex B",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.1936,
-                    29.7022
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-003",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Pasadena Refining",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.12,
-                    29.715
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-004",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Deer Park Storage 1",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.1225,
-                    29.7165
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-005",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Deer Park Storage 2",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.928,
-                    29.378
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-006",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Texas City Hub 1",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.9305,
-                    29.3801
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-007",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Texas City Hub 2",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.79,
-                    29.31
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-008",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Galveston Port Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.2611,
-                    29.7285
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-009",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Houston Ship Channel",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.0199,
-                    29.6655
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-010",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "La Porte Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.1266,
-                    30.0802
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-011",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Beaumont Reserve A",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.129,
-                    30.082
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-012",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Beaumont Reserve B",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.94,
-                    29.89
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-013",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Port Arthur Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.945,
-                    29.885
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-014",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Port Arthur Refining",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.75,
-                    30.1
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-015",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Orange Station",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.0779,
-                    31.9973
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-016",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 01",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.08,
-                    31.9985
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-017",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 02",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.0825,
-                    32.001
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-018",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 03",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.085,
-                    32.005
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-019",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 04",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.09,
-                    32.01
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-020",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 05",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.075,
-                    32.0005
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-021",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Midland Hub A",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.072,
-                    32.002
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-022",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Midland Hub B",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.36,
-                    31.85
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-023",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Odessa Gas Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.365,
-                    31.855
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-024",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 06",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.37,
-                    31.86
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-025",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 07",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.375,
-                    31.865
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-026",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 08",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.38,
-                    31.87
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-027",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 09",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -102.385,
-                    31.875
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-028",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 10",
-                "Operator": "South Texas Drillers",
-                "Status": "Inactive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -103.49,
-                    31.42
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-029",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Pecos Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -103.495,
-                    31.425
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-030",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Pecos Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.05,
-                    28.4333
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-031",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 01",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.055,
-                    28.435
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-032",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 02",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.06,
-                    28.44
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-033",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 03",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.065,
-                    28.445
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-034",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 04",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.07,
-                    28.45
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-035",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 05",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.84,
-                    28.81
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-036",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Kenedy Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.845,
-                    28.815
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-037",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Kenedy Gas Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.85,
-                    28.82
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-038",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 06",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.855,
-                    28.825
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-039",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 07",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.86,
-                    28.83
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-040",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 08",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.865,
-                    28.835
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-041",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 09",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.87,
-                    28.84
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-042",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 10",
-                "Operator": "South Texas Drillers",
-                "Status": "Inactive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.39,
-                    27.8
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-043",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Corpus Christi Tanks A",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.395,
-                    27.805
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-044",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Corpus Christi Tanks B",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.4,
-                    27.81
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-045",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Corpus Christi Refining",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.21,
-                    27.87
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-046",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Ingleside Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.8244,
-                    29.7858
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-047",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Katy Gas Plant A",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.828,
-                    29.788
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-048",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Katy Gas Plant B",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.69,
-                    29.97
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-049",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Cypress Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.61,
-                    30.09
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-050",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Tomball Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.13,
-                    33.21
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-051",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Barnett Pad 01",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.135,
-                    33.215
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-052",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Barnett Pad 02",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.14,
-                    33.22
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-053",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Barnett Pad 03",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.145,
-                    33.225
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-054",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Barnett Pad 04",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.15,
-                    33.23
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-055",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Barnett Pad 05",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.13,
-                    33.21
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-056",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Denton Gas Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.33,
-                    32.75
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-057",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Fort Worth Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.75,
-                    32.65
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-058",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Dallas South Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.14,
-                    31.54
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-059",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Waco Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.34,
-                    31.09
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-060",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Temple Station",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.37,
-                    32.05
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-061",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Haynesville Pad 01",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.375,
-                    32.055
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-062",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Haynesville Pad 02",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.38,
-                    32.06
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-063",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Haynesville Pad 03",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.385,
-                    32.065
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-064",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Haynesville Pad 04",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.39,
-                    32.07
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-065",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Haynesville Pad 05",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.33,
-                    32.15
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-066",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Carthage Gas Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.73,
-                    32.5
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-067",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Longview Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.3,
-                    32.35
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-068",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Tyler Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.73,
-                    31.33
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-069",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Lufkin Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.65,
-                    31.6
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-070",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Nacogdoches Station",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.5,
-                    31.5
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-071",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 11",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.505,
-                    31.505
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-072",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 12",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.51,
-                    31.51
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-073",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 13",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.515,
-                    31.515
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-074",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 14",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.52,
-                    31.52
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-075",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 15",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -101.47,
-                    32.25
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-076",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Big Spring Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.91,
-                    32.71
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-077",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Snyder Gas Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.915,
-                    32.715
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-078",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 16",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.92,
-                    32.72
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-079",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 17",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.925,
-                    32.725
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-080",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Permian Pad 18",
-                "Operator": "South Texas Drillers",
-                "Status": "Inactive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.73,
-                    32.44
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-081",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Abilene Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.4,
-                    32.47
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-082",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Sweetwater Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.5,
-                    28.6
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-083",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 11",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.505,
-                    28.605
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-084",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 12",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.51,
-                    28.61
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-085",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 13",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.515,
-                    28.615
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-086",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 14",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.52,
-                    28.62
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-087",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 15",
-                "Operator": "South Texas Drillers",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.23,
-                    28.43
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-088",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Cotulla Hub",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.86,
-                    28.52
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-089",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Carrizo Springs Plant",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.865,
-                    28.525
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-090",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 16",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.87,
-                    28.53
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-091",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 17",
-                "Operator": "South Texas Drillers",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.875,
-                    28.535
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-092",
-                "Facility_Type": "Well Pad",
-                "Location_Name": "Eagle Ford Pad 18",
-                "Operator": "South Texas Drillers",
-                "Status": "Inactive"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.5,
-                    27.5
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-093",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Laredo Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.27,
-                    26.9
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-094",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Zapata Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.36,
-                    28.95
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-095",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Freeport Hub A",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.365,
-                    28.955
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-096",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Freeport Hub B",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.37,
-                    28.96
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-097",
-                "Facility_Type": "Storage Terminal",
-                "Location_Name": "Freeport Tanks",
-                "Operator": "Coastal Storage",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.43,
-                    29.16
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-098",
-                "Facility_Type": "Compressor Station",
-                "Location_Name": "Angleton Station",
-                "Operator": "Tejas Pipeline Co",
-                "Status": "Maintenance"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.44,
-                    29.04
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-099",
-                "Facility_Type": "Pump Station",
-                "Location_Name": "Lake Jackson Pipeline",
-                "Operator": "Permian Logistics",
-                "Status": "Active"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.69,
-                    29.04
-                ]
-            },
-            "properties": {
-                "Facility_ID": "EN-TX-100",
-                "Facility_Type": "Refinery",
-                "Location_Name": "Sweeny Complex",
-                "Operator": "Gulf Coast Energy",
-                "Status": "Active"
-            }
-        }
-    ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0111,
+          29.7355
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-001",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Baytown Complex A",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.015,
+          29.738
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-002",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Baytown Complex B",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1936,
+          29.7022
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-003",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Pasadena Refining",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.12,
+          29.715
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-004",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Deer Park Storage 1",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1225,
+          29.7165
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-005",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Deer Park Storage 2",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.928,
+          29.378
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-006",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Texas City Hub 1",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9305,
+          29.3801
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-007",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Texas City Hub 2",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.79,
+          29.31
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-008",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Galveston Port Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2611,
+          29.7285
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-009",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Houston Ship Channel",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0199,
+          29.6655
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-010",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "La Porte Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1266,
+          30.0802
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-011",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Beaumont Reserve A",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.129,
+          30.082
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-012",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Beaumont Reserve B",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.94,
+          29.89
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-013",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Port Arthur Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.945,
+          29.885
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-014",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Port Arthur Refining",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.75,
+          30.1
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-015",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Orange Station",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0779,
+          31.9973
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-016",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 01",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.08,
+          31.9985
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-017",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 02",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0825,
+          32.001
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-018",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 03",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.085,
+          32.005
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-019",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 04",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.09,
+          32.01
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-020",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 05",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.075,
+          32.0005
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-021",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Midland Hub A",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.072,
+          32.002
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-022",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Midland Hub B",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.36,
+          31.85
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-023",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Odessa Gas Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.365,
+          31.855
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-024",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 06",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.37,
+          31.86
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-025",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 07",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.375,
+          31.865
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-026",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 08",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.38,
+          31.87
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-027",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 09",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.385,
+          31.875
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-028",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 10",
+        "Operator": "South Texas Drillers",
+        "Status": "Inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.49,
+          31.42
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-029",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Pecos Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.495,
+          31.425
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-030",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Pecos Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.05,
+          28.4333
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-031",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 01",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.055,
+          28.435
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-032",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 02",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.06,
+          28.44
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-033",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 03",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.065,
+          28.445
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-034",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 04",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.07,
+          28.45
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-035",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 05",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84,
+          28.81
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-036",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Kenedy Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.845,
+          28.815
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-037",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Kenedy Gas Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.85,
+          28.82
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-038",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 06",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.855,
+          28.825
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-039",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 07",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.86,
+          28.83
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-040",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 08",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.865,
+          28.835
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-041",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 09",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87,
+          28.84
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-042",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 10",
+        "Operator": "South Texas Drillers",
+        "Status": "Inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39,
+          27.8
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-043",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Corpus Christi Tanks A",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.395,
+          27.805
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-044",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Corpus Christi Tanks B",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4,
+          27.81
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-045",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Corpus Christi Refining",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.21,
+          27.87
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-046",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Ingleside Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8244,
+          29.7858
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-047",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Katy Gas Plant A",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.828,
+          29.788
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-048",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Katy Gas Plant B",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69,
+          29.97
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-049",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Cypress Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.61,
+          30.09
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-050",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Tomball Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13,
+          33.21
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-051",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Barnett Pad 01",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.135,
+          33.215
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-052",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Barnett Pad 02",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14,
+          33.22
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-053",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Barnett Pad 03",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.145,
+          33.225
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-054",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Barnett Pad 04",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15,
+          33.23
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-055",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Barnett Pad 05",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13,
+          33.21
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-056",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Denton Gas Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33,
+          32.75
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-057",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Fort Worth Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75,
+          32.65
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-058",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Dallas South Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14,
+          31.54
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-059",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Waco Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.34,
+          31.09
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-060",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Temple Station",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.37,
+          32.05
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-061",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Haynesville Pad 01",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.375,
+          32.055
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-062",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Haynesville Pad 02",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.38,
+          32.06
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-063",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Haynesville Pad 03",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.385,
+          32.065
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-064",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Haynesville Pad 04",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.39,
+          32.07
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-065",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Haynesville Pad 05",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.33,
+          32.15
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-066",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Carthage Gas Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.73,
+          32.5
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-067",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Longview Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3,
+          32.35
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-068",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Tyler Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.73,
+          31.33
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-069",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Lufkin Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.65,
+          31.6
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-070",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Nacogdoches Station",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5,
+          31.5
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-071",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 11",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.505,
+          31.505
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-072",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 12",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.51,
+          31.51
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-073",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 13",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.515,
+          31.515
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-074",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 14",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.52,
+          31.52
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-075",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 15",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.47,
+          32.25
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-076",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Big Spring Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.91,
+          32.71
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-077",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Snyder Gas Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.915,
+          32.715
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-078",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 16",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.92,
+          32.72
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-079",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 17",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.925,
+          32.725
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-080",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Permian Pad 18",
+        "Operator": "South Texas Drillers",
+        "Status": "Inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.73,
+          32.44
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-081",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Abilene Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4,
+          32.47
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-082",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Sweetwater Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5,
+          28.6
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-083",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 11",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.505,
+          28.605
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-084",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 12",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.51,
+          28.61
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-085",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 13",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.515,
+          28.615
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-086",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 14",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.52,
+          28.62
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-087",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 15",
+        "Operator": "South Texas Drillers",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.23,
+          28.43
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-088",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Cotulla Hub",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86,
+          28.52
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-089",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Carrizo Springs Plant",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.865,
+          28.525
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-090",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 16",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.87,
+          28.53
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-091",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 17",
+        "Operator": "South Texas Drillers",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.875,
+          28.535
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-092",
+        "Facility_Type": "Well Pad",
+        "Location_Name": "Eagle Ford Pad 18",
+        "Operator": "South Texas Drillers",
+        "Status": "Inactive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5,
+          27.5
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-093",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Laredo Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.27,
+          26.9
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-094",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Zapata Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36,
+          28.95
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-095",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Freeport Hub A",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.365,
+          28.955
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-096",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Freeport Hub B",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.37,
+          28.96
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-097",
+        "Facility_Type": "Storage Terminal",
+        "Location_Name": "Freeport Tanks",
+        "Operator": "Coastal Storage",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.43,
+          29.16
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-098",
+        "Facility_Type": "Compressor Station",
+        "Location_Name": "Angleton Station",
+        "Operator": "Tejas Pipeline Co",
+        "Status": "Maintenance"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.44,
+          29.04
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-099",
+        "Facility_Type": "Pump Station",
+        "Location_Name": "Lake Jackson Pipeline",
+        "Operator": "Permian Logistics",
+        "Status": "Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69,
+          29.04
+        ]
+      },
+      "properties": {
+        "Facility_ID": "EN-TX-100",
+        "Facility_Type": "Refinery",
+        "Location_Name": "Sweeny Complex",
+        "Operator": "Gulf Coast Energy",
+        "Status": "Active"
+      }
+    }
+  ]
 }

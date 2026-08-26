@@ -1,27 +1,59 @@
-# spatial-data-automator
-Python script to convert raw CSV infrastructure data into GeoJSON format. This architecture provides a scalable, low-latency solution to integrate sensitive or rapidly changing spatial information into centralized dashboards.
+# Spatial Data Automator
 
-## Overview
-This project is a lightweight, automated data  pipeline built in Python. It is designed to ingest raw tabular spatial data (such as infrastructure locations or environmental monitoring stations) and automatically convert it into the web-standard GeoJSON format. 
+A reproducible Python and Web GIS project that converts synthetic Texas energy
+infrastructure records from CSV to GeoJSON and displays the result in an
+interactive Leaflet map.
 
-By integrating Cloud Computing (AWS) with Geospatial Information Systems (GIS), this pipeline eliminates the need for manual map updates. When new infrastructure data (CSV) is ingested, the system automatically processes it into web-ready spatial formats (GeoJSON) and updates a live interactive web map in real-time.
+**Live demo:** https://saliprued.github.io/spatial-data-automator/
 
-## Cloud & Web Architecture
-The system is built using a serverless, event-driven architecture to ensure scalability and low maintenance:
+![Spatial Data Automator workflow](docs/workflow.svg)
 
-1. **Data Input:** __AWS S3__ acts as the primary data lake. Raw infrastructure data (`.csv`) is uploaded to a secure bucket.
-2. **Serverless Processing:** __Lamdda & Python__ Python script utilizing standard libraires like `csv`, `json`, `os` and `boto3` which is triggered automatically upon new file uploads. It reads the raw data, processes and generates a structured `.geojson` file.
-3. **Live Data Hosting:**  __AWS S3 & CORS__ the processed GeoJSON is stored back in S3 with Cross-Origin Resource Sharing (CORS) configured, securely serving the spatial data to the frontend via Object URLs.
-4. **Interactive Web Interface:** __TML/CSS/JS & Leaflet.js__ a lightweight, responsive web map hosted on **GitHub**. Using the JavaScript `fetch()` API, it dynamically retrieves the latest `.geojson` directly from the AWS S3 bucket, ensuring users always see the most up-to-date infrastructure network without requiring manual code deployments.
+## Project description
 
-## Use Case Example
-The current dataset (`texas_energy_infrastructure.csv`) uses sample environmental air quality monitoring data from the Gulf Coast region. The script successfully transforms this tabular data into a spatial format that can be easily visualized in digital twins or cloud-based maps.
-
-## About the Developer
-I am a geospatial data professional holding a Master's degree in GIS, with a strong background in geosciences, geomatics, and spatial data management. Currently expanding my technical stack through a Web Application Development and Cloud Computing program, my goal is to bridge the gap between complex spatial analysis and modern cloud architectures to build automated.
+Web maps commonly receive location data in GeoJSON, while operational datasets
+often arrive as tables. This project demonstrates a small, transparent workflow
+for validating coordinate fields, creating GeoJSON point features, and publishing
+the result in a browser-based map. it demonstrates a working local-to-web spatial data workflow,
+and does not claim an active AWS Lambda or real-time cloud deployment. A serverless S3/Lambda
+version could be added later as a separate deployment extension.
 
 
+## Features
+
+- Converts 100 synthetic facility records from CSV to GeoJSON.
+- Checks required columns and validates latitude/longitude ranges.
+- Produces a standards-based GeoJSON `FeatureCollection`.
+- Loads the generated file directly from the repository, avoiding temporary cloud dependencies.
+- Styles facilities by type and distinguishes Active, Maintenance, and Inactive records.
+- Provides interactive popups with facility, operator, status, and identifier fields.
+- Adapts the map interface for desktop and mobile screens.
+
+## Tools
+
+- Python 3 standard library (`csv`, `json`, `argparse`, `pathlib`)
+- GeoJSON
+- JavaScript
+- Leaflet
+- HTML and CSS
+
+## View the map locally
+
+See the directory through a small local web server:
+
+```bash
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
+
+## Disclaimer
+
+The Texas energy infrastructure records are synthetic and were created only for
+software and portfolio demonstration. They must not be interpreted as current or
+operational infrastructure information.
 
 
+## Author
 
-
+Sandra L. Perez  
+Geospatial Data | Spatial Analytics | Cloud & Application Development
